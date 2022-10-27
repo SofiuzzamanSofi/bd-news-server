@@ -10,6 +10,7 @@ https://bd-news-server-one.vercel.app/
 
 
 
+---------------------------------------------------------------------------------------------------------------
 News-category API---(for-navbar)
 https://bd-news-server-one.vercel.app/news-categories
 
@@ -19,11 +20,13 @@ https://bd-news-server-one.vercel.app/news
 
 or-
 https://bd-news-server-one.vercel.app/category/08
+---------------------------------------------------------------------------------------------------------------
 
 
 
 
 
+---------------------------------------------------------------------------------------------------------------
 News By Category Wise API---
 https://bd-news-server-one.vercel.app/category/${id}
 
@@ -38,6 +41,7 @@ https://bd-news-server-one.vercel.app/news/${_id}
 
 Example/or-
 https://bd-news-server-one.vercel.app/news/0282e0e58a5c404fbd15261f11c2ab6a
+---------------------------------------------------------------------------------------------------------------
 
 
 Example---
